@@ -1,3 +1,8 @@
+> 🏆 Team project built at **ETHGlobal Cannes 2026**.
+> Original repository: https://github.com/alibenyezza/ETHCC_DVB
+
+
+
 # ArcMind
 
 ### Autonomous AI Agents for Cross-Chain DeFi Yield Optimization
